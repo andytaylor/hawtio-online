@@ -37,6 +37,7 @@
     "license": "license-reporter merge --mpn='hawtio-online' --mlx='./packages/online/licenses/licenses.xml,./packages/integration/licenses/licenses.xml' --mo=licenses.xml -o=docker/licenses"
   },
   "devDependencies": {
+    "@andytee/artemis-plugin-npm": "^0.1.0",
     "@hawtio/node-backend": "^4.1.0",
     "del": "^2.0.0",
     "gulp": "^4.0.0",

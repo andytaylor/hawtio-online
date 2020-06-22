@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@andytee/artemis-plugin-npm@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@andytee/artemis-plugin-npm/-/artemis-plugin-npm-0.1.0.tgz#d5602b30ddea9b0168056edd19355d3007f2392a"
+  integrity sha512-sFmcJL+FMIlzClOtbrtCI9MTxivgKUBWN1GtpoXekLoPI3+00NxukVaSgEe6YYCI8hoW7FjixN1T8LZTh5n71g==
+
 "@hawtio/core-dts@~3.3.0":
   version "3.3.2"
   resolved "https://registry.yarnpkg.com/@hawtio/core-dts/-/core-dts-3.3.2.tgz#816c61ff16fd7ae3126a34be965cb2f13c132cdc"
@@ -3689,7 +3694,7 @@ lodash.uniq@^4.3.0:
   resolved "https://registry.yarnpkg.com/lodash.uniq/-/lodash.uniq-4.5.0.tgz#d0225373aeb652adc1bc82e4945339a842754773"
   integrity sha1-0CJTc662Uq3BvILklFM5qEJ1R3M=
 
-lodash@4.17.4, lodash@^4.0.0, lodash@^4.13.1, lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@~1.0.1, lodash@~4.17.0, lodash@~4.17.12:
+lodash@4.17.4, lodash@^4.0.0, lodash@^4.13.1, lodash@^4.17.11, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@~1.0.1, lodash@~4.17.0, lodash@~4.17.10:
   version "4.17.4"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
   integrity sha1-eCA6TRwyiuHYbcpkYONptX9AVa4=
